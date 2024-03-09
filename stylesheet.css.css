@@ -1,0 +1,67 @@
+* {
+font-family: "Times New Roman", Times, serif;
+color: #00000;
+text-align: center;
+}
+
+.mart4{
+    font-family: arial, verdana, sans-serif;
+    color: #00000;
+    text-align: center;
+}
+
+body{
+background-color: #3A3B3C;
+width: 960px;
+margin:0 auto;
+}
+
+nav{
+background-color: #E2E0E0;
+padding: 10px;
+margin:10px;
+}
+
+li{
+display: inline;
+padding: 5px;
+
+}
+
+section{
+    overflow: auto;
+    height: 100%;
+}
+
+main{
+    background-color: #E2E0E0;
+    padding: 10px;
+    margin:10px;
+}
+
+article{
+    background-color: #E2E0E0;
+    padding: 10px;
+    margin:10px;
+    
+}
+
+.mart{
+    width: 280px;
+}
+
+.mart2 {
+    width: 280px;
+   float: left;
+}
+
+.mart3{
+      width: 280px;
+      float: right;
+}
+
+footer{
+    background-color: #E2E0E0;
+    padding: 10px;
+    margin:10px;
+}
